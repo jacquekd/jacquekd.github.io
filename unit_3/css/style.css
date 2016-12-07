@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+h1 {
+	font-weight: bold;
+	background-color: #5ECCBD;
+}
+
+#mySlogan {
+	font-style: italic;
+}
+body {
+	font-weight: normal;
+	background-color: #FF8FFC;
+}
+
+.menuItems {
+	text-align: left;
+	font-weight: bold;
+	text-transform: uppercase;
+}
